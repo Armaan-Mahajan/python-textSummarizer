@@ -1,6 +1,5 @@
-It looks like the formatting for the Setup section wasn’t properly enclosed in markdown syntax. Let me correct that for you:
-
-# Text Summarizer with Gemini API and Text-to-Speech
+# Text Summarizer
+Major libraries: Gemini API and Text-to-Speech
 
 This project is a simple text summarizer that uses the Google Gemini API to summarize input text in a user-defined number of words. It also includes a text-to-speech feature to read the summary aloud using the gTTS (Google Text-to-Speech) library.
 
